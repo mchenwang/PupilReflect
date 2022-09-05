@@ -16,7 +16,7 @@ A compile time static reflection library with C++20 for Pupil Engine.
 - MSVC 19.29.30146.0
 - CMake 3.22.0
 - C++20
-- PupilReflToo v0.1
+- PupilReflTool v0.1
 
 ## Usage
 
